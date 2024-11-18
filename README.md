@@ -25,6 +25,9 @@
 - 💬 Information about me - 14 old love coca cola
   
 
+<p align="center">
+ <img width="600" src="assets/github-snake.svg" alt="snake"/>
+</p>
 
 
 
