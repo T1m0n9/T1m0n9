@@ -1,10 +1,10 @@
 <br clear="both">
 
 <div align="center">
-  <img height="300" width="600" src="https://tenor.com/ru/view/computer-typing-beavis-and-butthead-back-to-work-working-hard-gif-15174545"  />
+  <img height="300" width="600" src="https://media1.tenor.com/m/D5ScqejhhYkAAAAd/computer-typing.gif"  />
 </div>
 
-<h1 align="center">Hi👋 Me name Timon!</h1>
+<h1 align="center">Hi👋 My name Timon!</h1>
 
 
 
